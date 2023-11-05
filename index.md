@@ -1,6 +1,5 @@
 # H1 Header
-## H2 Header
-##### H6 Header 
+##### H5 Header 
 I have used a markdown to change text.
 
 ##### Adding a image
@@ -10,3 +9,8 @@ I have used a markdown to change text.
 ``` javascript
 var myVar = "Hello, world!"
 ```
+
+##### Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
